@@ -1,10 +1,7 @@
-Template for software repositories by the Caltech Library
-=====================================================
+Template for GitHub repositories for SciCodes
+=============================================
 
-This is a template README file for software repositories.  This first paragraph of the README should summarize your software in a concise fashion, preferably using no more than one or two sentences.
-
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg?style=flat-square)](https://choosealicense.com/licenses/bsd-3-clause)
-[![Latest release](https://img.shields.io/github/v/release/caltechlibrary/template.svg?style=flat-square&color=b44e88)](https://github.com/caltechlibrary/template/releases)
+This is a template README file for GitHub repositories.  This first paragraph of the README should summarize your software in a concise fashion, preferably using no more than one or two sentences.
 
 
 Table of contents
@@ -24,7 +21,7 @@ Table of contents
 Introduction
 ------------
 
-This repository is a GitHub template repostory for creating software project repositories at the Caltech Library.  The [associated wiki page](https://github.com/caltechlibrary/template/wiki/Using-this-template-repo) explains how to use the template repository.
+This repository is a GitHub template repostory for creating a project repository under the SciCodes GitHub organization.  The [associated wiki page](https://github.com/scicodes/template/wiki/Using-this-template-repo) explains how to use the template repository.
 
 This README file is in Markdown format, and is meant to provide a template for README files as well an illustration of what the README file can be expected to look like.  For a software project, this [Introduction](#introduction) section &ndash; which you are presently reading &ndash; should provide background for the project, a brief explanation of what the project is about, and optionally, pointers to resources that can help orient readers.  Ideally, this section should be short.
 
@@ -32,7 +29,7 @@ This README file is in Markdown format, and is meant to provide a template for R
 Installation
 ------------
 
-Begin this section by mentioning any prerequisites that may be important for users to have before they can use your software.  Examples include hardware and operating system requirements.
+If this repository is for a software project, provide instructions for how users can install the software.  Begin this section by mentioning any prerequisites that may be important for users to have before they can use your software.  Examples include hardware and operating system requirements.
 
 Next, provide step-by-step instructions for installing the software, preferably with command examples that can be copy-pasted by readers into their software environments. For example:
 
@@ -46,7 +43,7 @@ Sometimes, subsections may be needed for different operating systems or particul
 Usage
 -----
 
-This [Usage](#usage) section would explain more about how to run the software, what kind of behavior to expect, and so on.
+If this repository is for a software project, this [Usage](#usage) section would explain more about how to run the software, what kind of behavior to expect, and so on.
 
 ### _Basic operation_
 
@@ -78,7 +75,7 @@ This section is optional; if your repository is for a project that accepts open-
 License
 -------
 
-Software produced by the Caltech Library is Copyright (C) 2020, Caltech.  This software is freely distributed under a BSD/MIT type license.  Please see the [LICENSE](LICENSE) file for more information.
+Provide information about the license under which the content or software is made available to other people.
 
 
 Authors and history
@@ -90,13 +87,4 @@ In this section, list the authors and contributors to your software project.  Ad
 Acknowledgments
 ---------------
 
-This work was funded by the California Institute of Technology Library.
-
-(If this work was also supported by other organizations, acknowledge them here.  In addition, if your work relies on software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.)
-
-<div align="center">
-  <br>
-  <a href="https://www.caltech.edu">
-    <img width="100" height="100" src="https://raw.githubusercontent.com/caltechlibrary/template/main/.graphics/caltech-round.png">
-  </a>
-</div>
+Acknowledge support by your work institution and other organizations.  In addition, if your work relies on software packages created by other people, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
